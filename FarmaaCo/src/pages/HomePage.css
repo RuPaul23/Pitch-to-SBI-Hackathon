@@ -1,0 +1,393 @@
+.vector-icon {
+  position: absolute;
+  top: 1967.88px;
+  left: 0;
+  width: 641.66px;
+  height: 614.2px;
+}
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  top: 1626px;
+  left: 1012px;
+  width: 675px;
+  height: 584.99px;
+}
+.vector-icon2 {
+  top: 709.65px;
+  left: 0;
+  width: 491.3px;
+  height: 594.85px;
+}
+.farmaaco-is-a {
+  position: absolute;
+  top: 1860px;
+  left: 85px;
+  display: inline-block;
+  width: 1285px;
+}
+.home-page-child {
+  position: absolute;
+  top: 42px;
+  left: 1211px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 139px;
+  height: 60px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 282px;
+  left: 672px;
+  width: 768px;
+  height: 459px;
+  object-fit: cover;
+}
+.contact-us {
+  position: absolute;
+  top: 58px;
+  left: 835px;
+}
+.about-us,
+.our-services,
+.sign-up {
+  position: absolute;
+  top: 58px;
+  left: 1047px;
+}
+.our-services,
+.sign-up {
+  left: 1237px;
+}
+.our-services {
+  left: 610px;
+}
+.about-us1,
+.contact-us1,
+.our-services1 {
+  position: absolute;
+  top: 841px;
+  left: 608px;
+  font-size: var(--font-size-21xl);
+}
+.about-us1,
+.contact-us1 {
+  top: 1746px;
+  left: 634px;
+}
+.contact-us1 {
+  top: 2042px;
+  left: 612px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender);
+  width: 242px;
+  height: 67px;
+}
+.get-started {
+  position: absolute;
+  top: 19px;
+  left: 55px;
+}
+.group-item,
+.rectangle-parent {
+  position: absolute;
+  top: 543px;
+  left: 96px;
+  width: 242px;
+  height: 67px;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender);
+  width: 222px;
+}
+.arrow-point-to-right,
+.more-info {
+  position: absolute;
+  top: 19px;
+  left: 28px;
+}
+.arrow-point-to-right {
+  left: 164px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.group-div,
+.rectangle-container,
+.rectangle-group {
+  position: absolute;
+  top: 1550px;
+  left: 93px;
+  width: 222px;
+  height: 67px;
+}
+.group-div,
+.rectangle-container {
+  left: 538px;
+}
+.group-div {
+  left: 1039px;
+}
+.image-5-icon,
+.image-7-icon {
+  position: absolute;
+  top: 0;
+  left: 1581px;
+  width: 1380px;
+  height: 767px;
+  object-fit: cover;
+}
+.image-5-icon {
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 355px;
+  height: 355px;
+}
+.flexible-loan-amounts {
+  position: absolute;
+  top: 373px;
+  left: 24px;
+  display: inline-block;
+  width: 349px;
+  height: 46px;
+}
+.we-offer-a {
+  margin: 0;
+}
+.we-offer-a-container {
+  position: absolute;
+  top: 433px;
+  left: 27px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 341px;
+}
+.image-5-parent {
+  position: absolute;
+  top: 972px;
+  left: 69px;
+  width: 373px;
+  height: 529px;
+  font-size: var(--font-size-11xl);
+}
+.image-6-icon {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  border-radius: var(--br-31xl);
+  width: 263px;
+  height: 263px;
+  object-fit: cover;
+}
+.weather-based-eligibility {
+  position: absolute;
+  top: 327px;
+  left: 0;
+}
+.our-farmer-loan-container {
+  position: absolute;
+  top: 387px;
+  left: 6px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 379px;
+}
+.image-6-parent {
+  position: absolute;
+  top: 1018px;
+  left: 532px;
+  width: 385px;
+  height: 483px;
+  font-size: var(--font-size-11xl);
+}
+.image-4-icon,
+.vector-icon3 {
+  position: absolute;
+  top: 790.86px;
+  left: 924.11px;
+  width: 515.89px;
+  height: 575.46px;
+}
+.image-4-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 390px;
+  height: 390px;
+  object-fit: cover;
+}
+.our-efficient-loan {
+  position: absolute;
+  top: 450px;
+  left: 15px;
+  display: inline-block;
+  width: 342px;
+}
+.fast-and-easy,
+.image-4-parent {
+  position: absolute;
+  top: 390px;
+  left: 12px;
+  font-size: var(--font-size-11xl);
+}
+.image-4-parent {
+  top: 955px;
+  left: 1024px;
+  width: 390px;
+  height: 546px;
+  font-size: var(--font-size-xl);
+}
+.farmaaco-logo-2-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 402px;
+  height: 301px;
+  object-fit: cover;
+}
+.discover-a-new {
+  position: absolute;
+  top: 348px;
+  left: 92px;
+  display: inline-block;
+  width: 689px;
+}
+.welcome-to-farmaaco {
+  position: absolute;
+  top: 222px;
+  left: 96px;
+  font-size: 36px;
+}
+.home {
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+.group-child1,
+.home-parent {
+  position: absolute;
+  top: 37.5px;
+  left: -1.5px;
+  width: 80px;
+  height: 3px;
+}
+.home-parent {
+  top: 58px;
+  left: 451px;
+  width: 77px;
+  height: 39px;
+}
+.fill-out-the {
+  position: absolute;
+  top: 2156px;
+  left: 85px;
+  display: inline-block;
+  width: 675px;
+}
+.home-page-child1,
+.home-page-child2,
+.home-page-inner,
+.home-page-item {
+  position: absolute;
+  top: 2208px;
+  left: 849px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  width: 220px;
+  height: 57px;
+}
+.home-page-child1,
+.home-page-child2,
+.home-page-inner {
+  top: 2340px;
+  width: 507px;
+  height: 112px;
+}
+.home-page-child1,
+.home-page-child2 {
+  top: 2204px;
+  left: 1136px;
+  width: 220px;
+  height: 57px;
+}
+.home-page-child2 {
+  top: 2473px;
+  left: 1182px;
+  background-color: var(--color-lavender);
+  width: 148px;
+}
+.e-mail,
+.message,
+.name,
+.send {
+  position: absolute;
+  top: 2157px;
+  left: 860px;
+}
+.e-mail,
+.message,
+.send {
+  top: 2290px;
+}
+.e-mail,
+.send {
+  top: 2485px;
+  left: 1227px;
+}
+.e-mail {
+  top: 2157px;
+  left: 1147px;
+}
+.home-page-child3 {
+  position: absolute;
+  top: 2633px;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 1440px;
+  height: 190px;
+}
+.farmaaco {
+  position: absolute;
+  top: 2661px;
+  left: 620px;
+  font-size: var(--font-size-21xl);
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-icon {
+  position: absolute;
+  top: 2740px;
+  left: 806px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.instagram-icon,
+.twitter-icon {
+  top: 2743px;
+  left: 691px;
+}
+.instagram-icon {
+  left: 575px;
+}
+.home-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2823px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-sen);
+}
